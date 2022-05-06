@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhab2
 - 👀 I’m interested in Blockchain, Ethereum Dapps, Cloud Computing, Security, AI & ML, iOS Applications, and Music.
-- 🌱 I’m currently learning Java Maven, Springboot API, Apache Kafka, GCP & Azure deployments, Swift, Go, YAML, .sh, C, .NET, Networking
+- 🌱 I’m currently learning Java Maven, Springboot API, Apache Kafka, GCP & Azure deployments, Swift, Go, YAML, .sh, C, .NET, Networking, expressjs, React
 - 💞️ I’m looking to collaborate on Linux OpenSource, Bitcoin, dApps
 - 📫 How to reach me:
 - https://www.linkedin.com/in/brad-h-khoda/
